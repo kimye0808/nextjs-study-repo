@@ -17,5 +17,5 @@
 (pages router) with MongoDB Atlas
 
 -----
-## Authentication
+## authentication
 (pages router) with MongoDB Atlas, NextAuth
